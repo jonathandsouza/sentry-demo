@@ -9,6 +9,7 @@
 		"lint": "next lint"
 	},
 	"dependencies": {
+		"@picocss/pico": "^1.5.7",
 		"@sentry/nextjs": "^7.37.2",
 		"dotenv": "^16.0.3",
 		"next": "13.1.6",
